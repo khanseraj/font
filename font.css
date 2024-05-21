@@ -1,0 +1,67 @@
+/* body{
+    display: inline-block;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fbc531;
+} */
+/* shadow */
+.shadow{
+    display: inline-block;
+    height: 400px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fbc531;
+    margin: 0;
+    padding: 0;
+}
+.shadow-text{
+    font-size: 5rem;
+    font-family: "Pacifico";
+    color: white;
+    text-shadow: 7px 7px 0px #fbc531,15px 15px 0px #a37c13;
+    position: relative;
+    top: 5px;
+}
+             /* opacity */
+.opacity-container{
+    background-image: url(https://images.unsplash.com/photo-1714802066016-1b54e7cfbbca?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHx8fA%3D%3D);
+    height: 500px;
+    display: flex;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+.card-1{
+    color: white;
+    background-color: pink;
+    height: 300px;
+    width: 800px;
+    margin: 10px;
+    position: relative;
+    top: 80px;
+    opacity: 0.8;
+}
+.card-2{
+    color: white;
+    background-color: pink;
+    height: 300px;
+    width: 800px;
+    margin: 10px;
+    position: relative;
+    top: 80px;
+    opacity: 0.8;
+}
+.card-3{
+    color: white;
+    background-color: pink;
+    height: 300px;
+    width: 800px;
+    margin: 10px;
+    position: relative;
+    top: 80px;
+    opacity: 0.8;
+}
